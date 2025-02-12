@@ -8,6 +8,12 @@ header{
 height:100px:
 
 }
+section{
+width: 1440;
+height: 665;
+top: 111px;
+left: -1px;
+}
 .flex-container{
 display:flex;
 color:blue;
@@ -25,13 +31,13 @@ margin-top:20px;
 padding:40px;
 font-size:20px;
 }
-section{
+
+.harnes{
 background-image:url("images/frame 1.png");
 width: 1440;
 height: 665;
 top: 111px;
 left: -1px;
-
 }
 
 h1{
@@ -52,12 +58,7 @@ margin-bottom:150px;
 margin-left:300px;
 font-size:20px;
 }
- figure{
-width: 1440;
-height: 665;
-top: 111px;
-left: -1px;
-}
+
 #white{
 float:right;
 margin-top: -600px;
@@ -86,7 +87,96 @@ height: 665;
 margin-top: -120px;
 }
 
+.flex-key{
+background-image:url("images/group 3607.png");
+width: 1440;
+height: 700px;
+top: 1440px;
+repeat:no-repeat;
+}
+.flex-key>div{
+float:center;
+margin-width:1300px;
+height: 650px;
+margin-top:100px;
+margin-left: 162px;
+margin-right: 162px;
+opacity: 0.74;
+border-radius: 40px;
+background-color: blue;
+margin-padding:40px;
+}
+#key{
+width: 1300px;
+height:60px;
+top: 1522px;
+left: 373px;
+text-line-height:51px;
+text-letter=-4%;
+text-align:center;
+font-size:45px;
 
+}
+#para{
+width: 1000px;
+height: 174px;
+top: 1650px;
+margin-left: 409px;
+text-align:center;
+text-line-height:29px;
+text-letter:-4%;
+font-size:20px;
+}
+#photo-left{
+display:flex;
+float:left;
+width: 435px;
+height: 413px;
+top: 2167px;
+margin-left: 188px;
+}
+
+#inter{
+display:flex;
+width: 701px;
+height: 183px;
+top: 2167px;
+left: 704px;
+gap: 20px;
+color:blue;
+font-family: Plus Jakarta Sans;
+font-weight: 700;
+font-size: 46px;
+line-height: 61px;
+letter-spacing: -4%;
+
+}
+.photo{
+display:flex;
+background-image:url("images/gray-tray.jpg");
+margin-width: 1540px;
+height: 665px;
+top: 111px;
+left: -1px;
+repeat:no-repeat;
+color:blue;
+}
+#effect{
+display:flex;
+color:blue;
+width: 536px;
+height: 193px;
+top: 2380px;
+margin-left: 950px;
+margin-bottom:200px;
+margin-top:-300px;
+font-family: Plus Jakarta Sans;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+letter-spacing: -4%;
+
+}
 
 footer{
 background-color:blue;
