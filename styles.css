@@ -110,7 +110,7 @@ margin-padding:40px;
 width: 1300px;
 height:60px;
 top: 1522px;
-left: 373px;
+margin-right:373px;
 text-line-height:51px;
 text-letter=-4%;
 text-align:center;
@@ -175,9 +175,83 @@ font-weight: 400;
 font-size: 20px;
 line-height: 29px;
 letter-spacing: -4%;
+}
+#explore{
+float:center;
+color:blue;
+width: 1042;
+height: 122px;
+font-family: Plus Jakarta Sans;
+font-weight: 600;
+font-size: 40px;
+line-height: 61px;
+letter-spacing: -4%;
+text-align: center;
+margin-left:500px;
+}
+.gallery{
+display:flex;
+background-image-width: 1440;
+background-image-height: 748;
+background-image-top: 2750px;
+color:blue;
+}
+figure{
+background-image:url("images/blue-border.jpg");
+width: 1440;
+height: 748;
+top: 2750px;
 
 }
+#cyberstack{
+width: 345;
+height: 395;
+top: 3004px;
+left: 188px;
+}
+#commandhub{
+width: 345;
+height: 395;
+top: 3004px;
+left: 188px;
+}
+#cybersheild{
+width: 345;
+height: 395;
+top: 3004px;
+left: 188px;
+}
+.last{
+display:flex;
+background-image:url("images/creative.png");
+width:2048;
+height:1024px;
+}
+#discover{
+color:white;
+width: 719;
+height: 232;
+padding:150px;
+top: 3636px;
+left: 189px;
+gap: 20px;
+font-family: Plus Jakarta Sans;
+font-weight: 700;
+font-size: 45px;
+line-height: 58px;
+letter-spacing: -4%;
+font-size:60px;
 
+}
+h4{
+color:white;
+text-align:center;
+width:432px;
+height:164px;
+margin-left:350px;
+padding:-550px;
+size:35px;
+}
 footer{
 background-color:blue;
 display:block;
