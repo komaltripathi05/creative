@@ -205,3 +205,30 @@ footer {
     background-color: rgb(16, 57, 190);
     margin: 20px 0px;
 }
+.card{
+    position: relative;
+    width: 33%;
+    height: 300px;
+    color: aliceblue;
+    font-size: 40px;
+}
+.card h4{
+   
+    margin-top: auto;
+    padding-left: 25%;
+    
+}
+.card img{
+    height: 100%;
+    width: 100%;
+}
+.blue-line{
+
+    background-color: #2b2bf5a6;
+    position: absolute;
+    width: 100%;
+    height: 35%;
+    bottom: 0;
+   
+}
+
